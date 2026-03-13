@@ -1,0 +1,9 @@
+
+    <resources>
+        <string name="app_name">Khalibook</string>
+
+        <string name="username">Username</string>
+        <string name="password">Password</string>
+        <string name="login">Login</string>
+        <string name="register">No account? Register</string>
+    </resources>
